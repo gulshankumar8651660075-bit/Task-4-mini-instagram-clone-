@@ -4,7 +4,7 @@ import { Heart, MessageCircle, Share2, Volume2, VolumeX, Music, MessageSquare } 
 const REELS_DATA = [
   {
     id: 'reel_1',
-    videoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-girl-taking-photos-on-her-smartphone-40294-large.mp4',
+    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4',
     username: 'sarah_23',
     avatar: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&h=150&fit=crop',
     caption: 'Vibing in the city with my camera! 📸✨ #creative #reels #photography',
@@ -14,7 +14,7 @@ const REELS_DATA = [
   },
   {
     id: 'reel_2',
-    videoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-skater-doing-a-trick-in-a-skatepark-42790-large.mp4',
+    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4',
     username: 'rohit.dev',
     avatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop',
     caption: 'Practice makes perfect. Never stop grinding! 🛹🔥 #skatelife #sports #motivation',
@@ -24,7 +24,7 @@ const REELS_DATA = [
   },
   {
     id: 'reel_3',
-    videoUrl: 'https://assets.mixkit.co/videos/preview/mixkit-taking-photos-with-a-smartphone-in-nature-41584-large.mp4',
+    videoUrl: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4',
     username: 'john.doe',
     avatar: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&h=150&fit=crop',
     caption: 'Hiking in nature is the best therapy. Happy coding! 🌲🏞️ #nature #trekking #developer',
